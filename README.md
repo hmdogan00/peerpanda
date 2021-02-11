@@ -3,7 +3,7 @@ Bilkent CS319 Term Project
 
 -Peer Review Flow-
 
-<img src="https://github.com/mertyldrm/CS319Project/blob/main/Capture.PNG" width="600" height="400"/>
+<img src="https://github.com/mertyldrm/CS319Project/blob/main/Capture.PNG" width="800" height="400"/>
 
 -Peer Review Features-
 
