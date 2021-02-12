@@ -1,10 +1,6 @@
 # CS319Project
 Bilkent CS319 Term Project
 
--Peer Review Flow-
-
-<img src="https://github.com/mertyldrm/CS319Project/blob/main/Capture.PNG"/>
-
 -Peer Review Features-
 
 Artifact:
@@ -35,4 +31,3 @@ Participant:
 -At the end of the review, a grade from the reviewer is expected.
 
 -Also, the person will write a reflection of themselves.
-
